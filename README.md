@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials
 These tutorials I have developed are to help you get up to speed on the MySQL Document Store which is a NoSQL JSON dcoument database.  The Document Store is schema-less and you do not have to have a DBA set up relational tables, indexes, or other traditional relational database prerequesites.
 
 The Document Store is designed around a CRUD instructional set which is wasy top learn and you no longer have to master Structured Query Language (SQL) to use it.  And all this NoSQL data can also be accessed from the SQL side if you want.
