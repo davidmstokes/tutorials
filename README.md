@@ -5,6 +5,8 @@ The Document Store is designed around a CRUD instructional set which is wasy top
 
 I suggest starting with the introduction https://github.com/davidmstokes/tutorials/blob/master/docstore001.mp4 and then go to collections https://github.com/davidmstokes/tutorials/blob/master/collections.mp4
 
-There are other videos on indexing documents https://github.com/davidmstokes/tutorials/blob/master/index01.mp4, modifying documents https://github.com/davidmstokes/tutorials/blob/master/modifydoc-02.mp4, and transactions https://github.com/davidmstokes/tutorials/blob/master/transactions-01.mp4
+There are other videos on indexing documents https://github.com/davidmstokes/tutorials/blob/master/index01.mp4, modifying documents https://github.com/davidmstokes/tutorials/blob/master/modifydoc-02.mp4, and transactions https://github.com/davidmstokes/tutorials/blob/master/transactions-01.mp4 .   The _id field is explained in https://github.com/davidmstokes/tutorials/blob/master/id.mp4
+
+Information on using Document Store with relational tables can be found in https://github.com/davidmstokes/tutorials/blob/master/tables.mp4
 
 Please contact me if you have comments or need more explenation. David.Stokes AT Oracle.com
